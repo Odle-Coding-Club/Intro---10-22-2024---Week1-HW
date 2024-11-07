@@ -1,0 +1,9 @@
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println ("im a badddie");
+        System.out.println ("slayyyyy");
+        System.out.println ("yass queen");
+        System.out.println ("/ \\ // \\\\ /// \\\\\\");
+    }    
+}
+
